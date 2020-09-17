@@ -11,6 +11,7 @@ public class UserTest {
         System.out.println("master change");
         System.out.println("online change 2");
         System.out.println("dev change 1");
+        System.out.println("dev change 2");
         System.out.println("master change 1");
     }
 }
