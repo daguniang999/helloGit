@@ -16,5 +16,6 @@ public class UserTest {
         System.out.println("master 1");
         System.out.println("dev 1");
         System.out.println("gitee commit");
+        System.out.println("gitee ssh commit");
     }
 }
